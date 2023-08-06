@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushi9867" alt="rushi9867" /></a> </p>
 
-<img align="right" alt="Coding" width="500" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
-
 
 - 🌱 I’m currently learning **Data Science**
 
